@@ -40,7 +40,7 @@ def onclick(event):
     Z = 0*cgrid
     ZC = Z
 
-    for i in range(1,40 + mycount[0]*10):    
+    for i in range(1,80 + mycount[0]*10):    
         Z = np.power(Z,2) + cgrid
         ZC[Z>1000] = i
 
