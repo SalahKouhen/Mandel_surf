@@ -1,5 +1,5 @@
 # Mandel_surf
-Should be able to zoom around Mandelbrot set and possibly other fractals
+Zoomable Mandelbrot set
 
 
 ![Icon](MandelsurfIcon.png)
